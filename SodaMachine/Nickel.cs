@@ -4,7 +4,21 @@ using System.Text;
 
 namespace SodaMachine
 {
-    class Class1
+    class Nickel:Coin
     {
+        //member variable
+        //double amount;
+
+
+        //constructorctor       
+        public Nickel()
+        {
+            amount = (.05);
+        }
+
+
+
+        //member method 
+
     }
 }

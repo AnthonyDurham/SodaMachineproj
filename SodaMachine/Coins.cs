@@ -4,7 +4,15 @@ using System.Text;
 
 namespace SodaMachine
 {
-    class Class2
+    public class Coin
     {
+        public double amount;
+       
+
     }
+
+
+
+     
 }
+
